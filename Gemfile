@@ -85,7 +85,7 @@ group :development do
   gem "hotwire-livereload"
   gem "letter_opener"
   gem "ruby-lsp-rails"
-  gem "web-console"  
+  gem "web-console"
   gem "benchmark-ips"
   gem "foreman"
 end
