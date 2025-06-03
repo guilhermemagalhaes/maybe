@@ -67,6 +67,7 @@ gem "activerecord-import"
 # State machines
 gem "aasm"
 gem "after_commit_everywhere", "~> 1.0"
+gem "faker"
 
 # AI
 gem "ruby-openai"
@@ -84,8 +85,7 @@ group :development do
   gem "hotwire-livereload"
   gem "letter_opener"
   gem "ruby-lsp-rails"
-  gem "web-console"
-  gem "faker"
+  gem "web-console"  
   gem "benchmark-ips"
   gem "foreman"
 end
