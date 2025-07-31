@@ -26,7 +26,7 @@ gem "view_component"
 
 # https://github.com/lookbook-hq/lookbook/issues/712
 # TODO: Remove max version constraint when fixed
-gem "lookbook", "2.3.9"
+gem "lookbook", "2.3.11"
 
 gem "hotwire_combobox"
 
@@ -72,6 +72,7 @@ gem "plaid"
 gem "rotp", "~> 6.3"
 gem "rqrcode", "~> 3.0"
 gem "activerecord-import"
+gem "rubyzip", "~> 2.3"
 
 # State machines
 gem "aasm"
